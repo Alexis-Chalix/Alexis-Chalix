@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Alexis-Chalix
+- 👋 Hi, I’m Alexis
 - 👀 I’m interested in litterally everything
-- 🌱 I’m currently learning PHP / Symfony
+- 🧮 I know Python, NodeJS, PHP, HTML/CSS
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me : contact@spylix.fr ~ Alexis.#0110
+- 📫 How to reach me : Discord - Alexis.#0110
